@@ -1,4 +1,4 @@
-# dylux-fg
+# Bugzz×DiluxFg
 
 <a href="https://github.com/FG98F/dylux-fg/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FG98F/dylux-fg?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/FG98F/dylux-fg/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watchers&color=green&style=flat-square"></a>
@@ -7,8 +7,6 @@
 
 
 
-## Únete al grupo
-[![WhatsApp](https://img.shields.io/badge/DyLux-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instabio.cc/fg98ff) 
 
 
 #### Deploy to Heroku
