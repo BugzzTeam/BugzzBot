@@ -9,8 +9,8 @@ let tags = {
   'game': 'JUEGOS',
   'xp': 'NIVEL & ECONOMIA',
   'rg': 'REGISTRO',
-  'sticker': 'STICKER',
-   'img': 'IMAGEN',
+  'pegatina' : 'PEGATINA' ,
+   'img' : 'IMAGEN',
   'group': 'GRUPO',
   'nable': 'EN/DISABLE OPCIONES', 
   'nime': 'ANIME',
@@ -24,11 +24,11 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-  ────  *DyLux  ┃ ᴮᴼᵀ*  ────
-
-👋🏻 _Hola_ *%name*
-
-🧿 Nivel : *%level* 
+  ──── *Bugzz-BOT* ────
+ 
+👋🏻 _Hola_ *%nombre*
+ 
+✨ Nivel: *%nivel*
 👥 Usuarios : %totalreg
 ─────────────
 ▢ Crea tu propio bot 
@@ -149,12 +149,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   //const pp = await (await fetch('https://i.ibb.co/qMG1JPY/fg.jpg')).buffer()
     let pp = './src/fg_logo.jpg'
     
-  /*conn.sendHydrated(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, 'https://youtube.com/fg98f', 'YouTube', null, null, [
-      ['ꨄ︎ Apoyar', '/donate'],
-      ['⏍ Info', '/botinfo'],
+  /*conn.sendHydrated(m.chat, text.trim(), '▢ BugzzBot\n▢ Sígueme en Instagram\nhttps://www.instagram.com/Marboulevar\n', pp, 'https: //youtube.com/fg98f', 'YouTube', nulo, nulo, [
+      ['ꨄ︎ Apoyar', '/donar'],
+      ['⏍ Información', '/infobot'],
       ['✆ Owner', '/owner']
     ], m)*/
-    conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n', pp, [
+    contacto _ sendButton ( m . chat , text . trim () , '▢ BuggzBot\n▢ Sígueme en Instagram\nhttps://www.instagram.com/Marboulevard/n' , pp , [
       ['ꨄ︎ Apoyar', '/donate'],
       ['⏍ Info', '/botinfo'],
       ['✆ Owner', '/owner']
