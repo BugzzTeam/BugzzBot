@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true], 
-  ['5492622689586'], 
-  ['5493885839638'], 
- ['573125484672'] 
+  [ '526632084942'  , 'Bugzz' , verdadero ],
+  [ '5492622689586' ],
+  
+ 
   
 ] //Numeros de owner 
 
@@ -34,11 +34,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'dylux-bot'
-global.author = '@fg98._'
-global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
+mundial _ nombre del paquete = ' Bugzz- Bot' 
+mundial_autor  = ' @ BugzzTeam '    
+mundial _ igfg  =  '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/Marboulevard\n'
+mundial _ fgsc  =  'https://github.com/BugzzTeam/Bugzzbot ' 
+
 
 global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱▱*'
 global.rwait = '⏰'
